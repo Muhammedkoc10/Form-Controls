@@ -1,0 +1,10 @@
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\bin\Debug\01-Kontroller.exe.config
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\bin\Debug\01-Kontroller.exe
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\bin\Debug\01-Kontroller.pdb
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\obj\Debug\01-Kontroller.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\obj\Debug\_01_Kontroller.Form1.resources
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\obj\Debug\_01_Kontroller.Properties.Resources.resources
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\obj\Debug\01-Kontroller.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\obj\Debug\01-Kontroller.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\obj\Debug\01-Kontroller.exe
+C:\Users\muham\source\repos\01-Kontroller\01-Kontroller\obj\Debug\01-Kontroller.pdb
